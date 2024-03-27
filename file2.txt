@@ -1,2 +1,2 @@
-This is file - 2
-Version 1.0
+This is feature - 2 branch's file - 2
+Version 1.1
